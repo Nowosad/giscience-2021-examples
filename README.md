@@ -9,4 +9,4 @@ You can find the packages' installation code in [`R/00-packages_installation.R`]
 
 ## Example
 
-1. Superpixels of spatial patterns in categorical data - [`R/02-create_superpixels.R`](R/02-create_superpixels.R)
+Superpixels of spatial patterns in categorical data - [`R/02-create_superpixels.R`](R/02-create_superpixels.R)
